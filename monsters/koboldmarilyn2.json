@@ -1,0 +1,1 @@
+{"type": "Kobold", "ac": 10, "hit_dice_low": 1, "hit_dice_high": 4, "movement": 30, "damage_low": 1, "damage_high": 8, "morale": 6, "treasure_type": ["p", "q", "c"], "xp": 10, "hit_point_max": 2, "name": "Marilyn"}

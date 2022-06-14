@@ -1,0 +1,8 @@
+{
+    "name" : "Longsword",
+    "price" : 10,
+    "size" : "M",
+    "weight" : 4,
+    "damage_low" : 1,
+    "damage_high" : 8
+}

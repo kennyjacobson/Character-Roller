@@ -1,0 +1,8 @@
+{
+    "name" : "Two-Handed Sword",
+    "price" : 18,
+    "size" : "L",
+    "weight" : 10,
+    "damage_low" : 1,
+    "damage_high" : 10
+}

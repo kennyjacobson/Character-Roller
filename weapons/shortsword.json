@@ -1,0 +1,8 @@
+{
+    "name" : "Shortsword",
+    "price" : 6,
+    "size" : "S",
+    "weight" : 3,
+    "damage_low" : 1,
+    "damage_high" : 6
+}
